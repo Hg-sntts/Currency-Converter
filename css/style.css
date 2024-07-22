@@ -1,0 +1,52 @@
+body {
+    background-color: #282828;
+    color: white;
+}
+
+a {
+    color: #a1ffa1;
+}
+
+#search{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+}
+
+#search h1{
+    margin: 10px;
+    display: inline;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#search div {
+    padding-top: 10px;
+}
+
+#search div input{
+    background-color: #434343;
+    border-style: none;
+}
+
+input {
+    width: 330px;
+    border-radius: 100px;
+    padding-inline: 10px;
+    height: 35px;
+}
+
+footer {
+    padding-top: 259px;
+}
+
+.montserrat-family {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  #paintedText {
+    color: #a1ffa1;
+  }
